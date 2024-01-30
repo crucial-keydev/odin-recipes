@@ -1,9 +1,12 @@
 h1 {
     font-size: 100px;
     text-align: center;
+    outline: 1px solid black;
 }
 
 .recipe-items {
     font-size: 30px;
-    color: green
+    color: green;
+    outline: 1px solid black;
+    padding: 8px;
 }
